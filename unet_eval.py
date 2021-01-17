@@ -1,3 +1,5 @@
+# By Jim Chen / 2021/01/27
+
 import PIL.Image as Image
 import numpy as np
 import os
